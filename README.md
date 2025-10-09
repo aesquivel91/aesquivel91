@@ -8,7 +8,6 @@
 Data Analyst | Python • SQL • Tableau • Excel | Turning data into actionable insights
 
 ---
-# 👋 Hola, soy Andy (Andrés Esquivel Díaz)
 
 Soy **Data Analyst** con experiencia en Python, SQL, Excel y Tableau.  
 Después de más de 13 años en la industria hotelera, me enfoqué en el análisis de datos para apoyar la toma de decisiones, optimizar procesos y descubrir oportunidades de negocio.  
