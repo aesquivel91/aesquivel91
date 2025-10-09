@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="github_banner.jpg" alt="Andrés Esquivel - Data Analyst" width="100%">
+  <img src="Data Analysis Template Banner Hiring 2 - Made with PosterMyWall (4).jpg" alt="Andrés Esquivel - Data Analyst" width="100%">
 </p>
 
