@@ -21,37 +21,6 @@ Después de más de 13 años en la industria hotelera, me enfoqué en el anális
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 📞 Telecom Inefficiency Analysis
-- **Descripción**: Análisis exploratorio de operadores de telecomunicaciones para identificar ineficiencias, altas tasas de llamadas perdidas y problemas de enrutamiento.  
-- **Tecnologías**: Python (pandas, matplotlib, seaborn, scipy, statsmodels), Jupyter Notebook.  
-- [Repositorio en GitHub](https://github.com/tu_usuario/telecom-inefficiency-analysis)
-
----
-
-### 🅰️🅱️ AB Test App Typography
-- **Descripción**: Test A/A/B en una aplicación móvil para evaluar el impacto de cambios tipográficos sobre el comportamiento del usuario, con análisis de embudo de conversión.  
-- **Tecnologías**: Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels), Jupyter Notebook.  
-- [Repositorio en GitHub](https://github.com/tu_usuario/ab-test-app-typography)
-
----
-
-### 🚗 Aplicación Análisis de Vehículos Usados
-- **Descripción**: Aplicación web interactiva que permite explorar un conjunto de datos de anuncios de venta de vehículos en EE.UU., filtrando por precio, año, marca y otras características.  
-- **Tecnologías**: Python, Streamlit, pandas, matplotlib, seaborn.  
-- [Repositorio en GitHub](https://github.com/tu_usuario/Aplicacion_Analisis_de_vehiculos_usados)
-
----
-
-## 🔧 Tecnologías y herramientas
-- **Lenguajes**: Python, SQL  
-- **Visualización**: Tableau, Matplotlib, Seaborn, Plotly  
-- **Entornos**: Jupyter Notebook, Anaconda, Streamlit  
-- **Otros**: Excel avanzado, Git/GitHub  
-
----
-
 ## 🚀 Featured Projects
 
 ### 📞 Telecom Inefficiency Analysis
@@ -97,7 +66,7 @@ Después de más de 13 años en la industria hotelera, me enfoqué en el anális
 
 ---
 
-## 📫 Connect with me / Conecta conmigo  
+## 📫 Connect with me 
 
 📧 **Email / Correo:** a_esquivel_69@hotmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/andres-esquivel-diaz-08691337](https://www.linkedin.com/in/andres-esquivel-diaz-08691337)  
